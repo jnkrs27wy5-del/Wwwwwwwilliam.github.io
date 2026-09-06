@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "projectId": "becb647f-e391-46e4-9cd2-2ba59cadec81",
+  "lineageId": "becb647f-e391-46e4-9cd2-2ba59cadec81",
+  "semanticName": "camera-color-filter",
+  "createdAt": "2026-09-06T13:37:44.720Z",
+  "updatedAt": "2026-09-06T14:15:00.000Z",
+  "entryFile": "胶片去色罩预览台.html",
+  "status": "delivered_v1",
+  "operationId": "camera-color-filter-20260906-a1"
+}
